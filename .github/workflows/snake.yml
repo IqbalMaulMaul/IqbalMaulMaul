@@ -26,6 +26,15 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#16805d&color_dots=#ebedf0,#c8e6d4,#8fd3ae,#4bab7d,#237651
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#a7f3d0&color_dots=#161b22,#173e2e,#236644,#369763,#62cf94
+      - name: Respect reduced motion
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          for path in Path('dist').glob('*.svg'):
+              svg = path.read_text()
+              css = '<style>@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>'
+              path.write_text(svg.replace('</svg>', css + '</svg>'))
+          PY
       - name: Publish the animation
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
