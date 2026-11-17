@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./asset/coding-studio-still.png" />
-    <img src="./asset/coding-studio.gif" width="100%" alt="Iqbal's pixel-art coding studio: falling rain, an orbiting planet, and a softly glowing monitor and lamp" />
+    <img src="./asset/coding-studio.gif" width="768" alt="Iqbal's pixel-art coding studio: falling rain, an orbiting planet, and a softly glowing monitor and lamp" />
   </picture>
 </p>
 
@@ -18,6 +18,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IqbalMaulMaul/IqbalMaulMaul/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/IqbalMaulMaul/IqbalMaulMaul/output/github-snake.svg" width="100%" alt="A mint-green snake moving through IqbalMaulMaul's actual GitHub contribution calendar" />
+    <img src="https://raw.githubusercontent.com/IqbalMaulMaul/IqbalMaulMaul/output/github-snake.svg" width="768" alt="A mint-green snake moving through IqbalMaulMaul's actual GitHub contribution calendar" />
   </picture>
 </p>
