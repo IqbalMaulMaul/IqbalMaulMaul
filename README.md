@@ -1,74 +1,82 @@
-&#x20;\<div align="center">
+<p align="center">
+  <img src="./assets/coding-studio.png" width="100%" alt="An original pixel-art coding studio with mint lighting and a rainy Indonesian city outside the window" />
+</p>
 
-&#x20; \<!-- DARK PIXEL ART CODING ROOM BANNER -->
+<h1 align="center">Hi, I'm Iqbal.</h1>
 
-&#x20; \<img src="./assets/coding-room.png" width="100%" alt="Pixel art illustration of a developer coding in a dark room at night" />
+<p align="center">
+  <b>Iqbal Maulana Dhiti</b><br />
+  Informatics student · Web development · 3D &amp; motion<br />
+  Based in Indonesia
+</p>
 
-&#x20; \<h1>Hi, I'm Iqbal Maulana\</h1>
+<p align="center">
+  Turning ideas into interfaces, one experiment at a time.
+</p>
 
-&#x20; \<p>
-&#x20;   \<b>Full Stack Developer\</b> · Informatics Student · Indonesia 🇮🇩
-&#x20; \</p>
-
-&#x20; \<p>
-&#x20;   Building things with code and learning something new every day.
-&#x20; \</p>
-
-\</div>
-
----
-
-## About Me
-
-I'm an Informatics student interested in web development and artificial intelligence. I enjoy building applications, exploring new technologies, and turning ideas into useful digital products.
-
-- 💻 Interested in Frontend and Backend Development.
-- ⚙️ Enjoy building web applications and APIs.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🌱 Always learning and improving my development skills.
+<p align="center">
+  <a href="https://github.com/IqbalMaulMaul?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-163B32?style=for-the-badge&amp;logo=github&amp;logoColor=A7F3D0" alt="Explore my GitHub repositories" /></a>
+  <a href="mailto:iqbalmaulanadhiti@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-163B32?style=for-the-badge&amp;logo=gmail&amp;logoColor=A7F3D0" alt="Email Iqbal" /></a>
+  <a href="https://instagram.com/iqbalmsdhiti"><img src="https://img.shields.io/badge/Instagram-163B32?style=for-the-badge&amp;logo=instagram&amp;logoColor=A7F3D0" alt="Instagram: iqbalmsdhiti" /></a>
+</p>
 
 ---
 
-## Tech Stack
+### A little about me
 
-**Frontend**
+I'm an Informatics student who enjoys building web applications and exploring the space between code, design, and interaction. My interests range from responsive interfaces and 3D web experiences to experiments with artificial intelligence.
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap\&theme=dark)" /> \</p>
+- **Building:** web interfaces with React, TypeScript, and Tailwind CSS.
+- **Exploring:** creative interactions with Three.js and GSAP, alongside AI projects.
+- **Learning:** through personal projects, coursework, and hands-on experiments.
 
-**Backend**
+### My toolkit
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,python,php,laravel,java&theme=dark](https://skillicons.dev/icons?i=nodejs,python,php,laravel,java\&theme=dark)" /> \</p>
+**Interfaces & motion**
 
-**Database**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-142D25?style=flat-square&amp;logo=html5&amp;logoColor=E8F3EC" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-142D25?style=flat-square&amp;logo=css&amp;logoColor=E8F3EC" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-142D25?style=flat-square&amp;logo=javascript&amp;logoColor=E8F3EC" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-142D25?style=flat-square&amp;logo=typescript&amp;logoColor=E8F3EC" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-142D25?style=flat-square&amp;logo=react&amp;logoColor=A7F3D0" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-142D25?style=flat-square&amp;logo=tailwindcss&amp;logoColor=A7F3D0" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Three.js-142D25?style=flat-square&amp;logo=threedotjs&amp;logoColor=A7F3D0" alt="Three.js" />
+  <img src="https://img.shields.io/badge/GSAP-142D25?style=flat-square&amp;logo=gsap&amp;logoColor=A7F3D0" alt="GSAP" />
+</p>
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase\&theme=dark)" /> \</p>
+**Backend, data & tools**
 
-**Tools & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Laravel-142D25?style=flat-square&amp;logo=laravel&amp;logoColor=E8F3EC" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-142D25?style=flat-square&amp;logo=python&amp;logoColor=E8F3EC" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-142D25?style=flat-square&amp;logo=mysql&amp;logoColor=E8F3EC" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-142D25?style=flat-square&amp;logo=supabase&amp;logoColor=A7F3D0" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-142D25?style=flat-square&amp;logo=git&amp;logoColor=E8F3EC" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-142D25?style=flat-square&amp;logo=figma&amp;logoColor=E8F3EC" alt="Figma" />
+</p>
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux\&theme=dark)" /> \</p>
+### From my repositories
 
-**AI & Data Science**
+| Project | Focus |
+| :--- | :--- |
+| [BukuTamu](https://github.com/IqbalMaulMaul/BukuTamu) | TypeScript project |
+| [NeuroScan AI](https://github.com/IqbalMaulMaul/brain-tumor-cnn) | Computer vision coursework · Python, CNN & explainable AI |
+| [LimaWaktu](https://github.com/IqbalMaulMaul/LimaWaktu) | JavaScript project |
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv\&theme=dark)" /> \</p>
+[Browse all repositories →](https://github.com/IqbalMaulMaul?tab=repositories)
+
+### Coding activity
+
+<a href="https://github.com/IqbalMaulMaul?tab=overview">
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=IqbalMaulMaul&amp;bg_color=0D1714&amp;color=C9DDD1&amp;title_color=A7F3D0&amp;line=75C9A3&amp;point=F3EBDD&amp;area=true&amp;area_color=234C3B&amp;hide_border=true&amp;custom_title=Small%20steps%2C%20steady%20progress&amp;radius=12&amp;height=280" width="100%" alt="IqbalMaulMaul's GitHub contribution activity over the last 31 days" />
+</a>
 
 ---
 
-## GitHub Statistics
-
-\<div align="center">
-
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=IqbalMaulMaul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE787&icon_color=7EE787&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=IqbalMaulMaul\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=7EE787\&icon_color=7EE787\&text_color=C9D1D9\&rank_icon=github)" />
-
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=IqbalMaulMaul&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=IqbalMaulMaul\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=7EE787\&text_color=C9D1D9\&langs_count=6)" />
-
-\</div>
-
----
-
-\<div align="center">
-
-&#x20; \<p>\<i>"Keep building. Keep learning. Keep creating."\</i>\</p>
-
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:163B32&height=90&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,100:163B32\&height=90\&section=footer)" width="100%" />
-
-\</div>
+<p align="center">
+  <b>Have an idea? Let's build something together.</b><br />
+  <a href="mailto:iqbalmaulanadhiti@gmail.com">Email</a> ·
+  <a href="https://instagram.com/iqbalmsdhiti">Instagram</a> ·
+  <a href="https://github.com/IqbalMaulMaul">GitHub</a>
+</p>
