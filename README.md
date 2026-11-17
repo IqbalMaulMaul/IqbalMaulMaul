@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/coding-studio.png" width="100%" alt="An original pixel-art coding studio with mint lighting and a rainy Indonesian city outside the window" />
+  <img src="./asset/coding-studio.png" width="100%" alt="An original pixel-art coding studio with mint lighting and a rainy Indonesian city outside the window" />
 </p>
 
 <h1 align="center">Hi, I'm Iqbal.</h1>
