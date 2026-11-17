@@ -1,159 +1,74 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<!-- PIXEL ART GAMING BANNER -->
-<img src="./assets/pixel-banner.gif" width="100%" alt="Iqbal Pixel Art Gaming Banner" />
+&#x20; \<!-- DARK PIXEL ART CODING ROOM BANNER -->
 
-<br/>
+&#x20; \<img src="./assets/coding-room.png" width="100%" alt="Pixel art illustration of a developer coding in a dark room at night" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=HELLO+WORLD!;I'M+IQBAL+MAULANA;FULL+STACK+DEVELOPER;WELCOME+TO+MY+GITHUB!" alt="Typing SVG" />
+&#x20; \<h1>Hi, I'm Iqbal Maulana\</h1>
 
-<br/>
+&#x20; \<p>
+&#x20;   \<b>Full Stack Developer\</b> · Informatics Student · Indonesia 🇮🇩
+&#x20; \</p>
 
-### 🎮 `PLAYER PROFILE`
+&#x20; \<p>
+&#x20;   Building things with code and learning something new every day.
+&#x20; \</p>
 
-**IQBAL MAULANA** | `Full Stack Developer` | `Informatics Student`
-
-[![GitHub](https://img.shields.io/badge/GitHub-IqbalMaulMaul-181717?style=for-the-badge&logo=github)](https://github.com/IqbalMaulMaul)
-[![Profile Views](https://komarev.com/ghpvc/?username=IqbalMaulMaul&style=for-the-badge&color=00cc88)](https://github.com/IqbalMaulMaul)
-
-</div>
+\</div>
 
 ---
 
-## 🕹️ ABOUT ME
+## About Me
 
-```text
-╔══════════════════════════════════════════╗
-║              PLAYER INFORMATION         ║
-╠══════════════════════════════════════════╣
-║  NAME       : Iqbal Maulana              ║
-║  ROLE       : Full Stack Developer       ║
-║  EDUCATION  : Informatics Student        ║
-║  LOCATION   : Indonesia 🇮🇩              ║
-║  STATUS     : Learning & Building        ║
-║  INTEREST   : Web Development & AI       ║
-╚══════════════════════════════════════════╝
-```
+I'm an Informatics student interested in web development and artificial intelligence. I enjoy building applications, exploring new technologies, and turning ideas into useful digital products.
 
 - 💻 Interested in Frontend and Backend Development.
-- 🎨 Enjoy building modern, responsive, and interactive websites.
-- ⚙️ Exploring software engineering, databases, and API development.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🚀 Always learning new technologies and improving my skills.
+- ⚙️ Enjoy building web applications and APIs.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌱 Always learning and improving my development skills.
 
 ---
 
-## ⚡ TECH STACK & TECHNOLOGIES
+## Tech Stack
 
-### 🎨 Frontend Development
+**Frontend**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,angular,svelte,astro&theme=dark" />
-</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap\&theme=dark)" /> \</p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui,vite,webpack&theme=dark" />
-</p>
+**Backend**
 
-### ⚙️ Backend Development
+\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,python,php,laravel,java&theme=dark](https://skillicons.dev/icons?i=nodejs,python,php,laravel,java\&theme=dark)" /> \</p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,flask,php,laravel,java,spring,go,rust,cs,dotnet,ruby&theme=dark" />
-</p>
+**Database**
 
-### 🗄️ Database & Storage
+\<p>   \<img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase\&theme=dark)" /> \</p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase&theme=dark" />
-</p>
+**Tools & Technologies**
 
-### 🛠️ Tools & DevOps
+\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux\&theme=dark)" /> \</p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma,vercel,netlify,githubactions&theme=dark" />
-</p>
+**AI & Data Science**
 
-### 🧠 AI & Data Science
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
-</p>
-
-> These technologies represent my current toolkit and learning interests, not a claim of equal proficiency in every technology.
+\<p>   \<img src="[https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv\&theme=dark)" /> \</p>
 
 ---
 
-## 📊 GITHUB STATISTICS
+## GitHub Statistics
 
-<div align="center">
+\<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IqbalMaulMaul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF&rank_icon=github" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=IqbalMaulMaul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE787&icon_color=7EE787&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=IqbalMaulMaul\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=7EE787\&icon_color=7EE787\&text_color=C9D1D9\&rank_icon=github)" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqbalMaulMaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&langs_count=10" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=IqbalMaulMaul&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=IqbalMaulMaul\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=7EE787\&text_color=C9D1D9\&langs_count=6)" />
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=IqbalMaulMaul&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=FF9900&currStreakLabel=00FF99" />
-
-</div>
+\</div>
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
+\<div align="center">
 
-<div align="center">
+&#x20; \<p>\<i>"Keep building. Keep learning. Keep creating."\</i>\</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IqbalMaulMaul&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20GRAPH" width="100%" />
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:163B32&height=90&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,100:163B32\&height=90\&section=footer)" width="100%" />
 
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IqbalMaulMaul/IqbalMaulMaul/output/github-snake.gif" width="100%" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
-
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IqbalMaulMaul&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IqbalMaulMaul)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎮 THANKS FOR VISITING MY PROFILE!
-
-```text
-> Keep Coding...
-> Keep Learning...
-> Keep Creating...
-> GAME NEVER OVER! 🚀
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:003366,100:00cc88&height=120&section=footer" width="100%" />
-
-**"Turning ideas into code, one commit at a time."**
-
-</div>
+\</div>
